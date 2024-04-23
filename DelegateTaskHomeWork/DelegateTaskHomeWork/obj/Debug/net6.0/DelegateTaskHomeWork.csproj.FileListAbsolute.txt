@@ -1,0 +1,14 @@
+C:\Users\Kamil\Desktop\DelegateTaskHomeWork\DelegateTaskHomeWork\bin\Debug\net6.0\DelegateTaskHomeWork.exe
+C:\Users\Kamil\Desktop\DelegateTaskHomeWork\DelegateTaskHomeWork\bin\Debug\net6.0\DelegateTaskHomeWork.deps.json
+C:\Users\Kamil\Desktop\DelegateTaskHomeWork\DelegateTaskHomeWork\bin\Debug\net6.0\DelegateTaskHomeWork.runtimeconfig.json
+C:\Users\Kamil\Desktop\DelegateTaskHomeWork\DelegateTaskHomeWork\bin\Debug\net6.0\DelegateTaskHomeWork.dll
+C:\Users\Kamil\Desktop\DelegateTaskHomeWork\DelegateTaskHomeWork\bin\Debug\net6.0\DelegateTaskHomeWork.pdb
+C:\Users\Kamil\Desktop\DelegateTaskHomeWork\DelegateTaskHomeWork\obj\Debug\net6.0\DelegateTaskHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Desktop\DelegateTaskHomeWork\DelegateTaskHomeWork\obj\Debug\net6.0\DelegateTaskHomeWork.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\DelegateTaskHomeWork\DelegateTaskHomeWork\obj\Debug\net6.0\DelegateTaskHomeWork.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\DelegateTaskHomeWork\DelegateTaskHomeWork\obj\Debug\net6.0\DelegateTaskHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\DelegateTaskHomeWork\DelegateTaskHomeWork\obj\Debug\net6.0\DelegateTaskHomeWork.dll
+C:\Users\Kamil\Desktop\DelegateTaskHomeWork\DelegateTaskHomeWork\obj\Debug\net6.0\refint\DelegateTaskHomeWork.dll
+C:\Users\Kamil\Desktop\DelegateTaskHomeWork\DelegateTaskHomeWork\obj\Debug\net6.0\DelegateTaskHomeWork.pdb
+C:\Users\Kamil\Desktop\DelegateTaskHomeWork\DelegateTaskHomeWork\obj\Debug\net6.0\DelegateTaskHomeWork.genruntimeconfig.cache
+C:\Users\Kamil\Desktop\DelegateTaskHomeWork\DelegateTaskHomeWork\obj\Debug\net6.0\ref\DelegateTaskHomeWork.dll

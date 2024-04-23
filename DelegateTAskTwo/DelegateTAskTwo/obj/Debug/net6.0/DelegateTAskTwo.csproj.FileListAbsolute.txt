@@ -1,0 +1,14 @@
+C:\Users\Kamil\Desktop\DelegateTAskTwo\DelegateTAskTwo\obj\Debug\net6.0\DelegateTAskTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Desktop\DelegateTAskTwo\DelegateTAskTwo\obj\Debug\net6.0\DelegateTAskTwo.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\DelegateTAskTwo\DelegateTAskTwo\obj\Debug\net6.0\DelegateTAskTwo.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\DelegateTAskTwo\DelegateTAskTwo\obj\Debug\net6.0\DelegateTAskTwo.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\DelegateTAskTwo\DelegateTAskTwo\bin\Debug\net6.0\DelegateTAskTwo.exe
+C:\Users\Kamil\Desktop\DelegateTAskTwo\DelegateTAskTwo\bin\Debug\net6.0\DelegateTAskTwo.deps.json
+C:\Users\Kamil\Desktop\DelegateTAskTwo\DelegateTAskTwo\bin\Debug\net6.0\DelegateTAskTwo.runtimeconfig.json
+C:\Users\Kamil\Desktop\DelegateTAskTwo\DelegateTAskTwo\bin\Debug\net6.0\DelegateTAskTwo.dll
+C:\Users\Kamil\Desktop\DelegateTAskTwo\DelegateTAskTwo\bin\Debug\net6.0\DelegateTAskTwo.pdb
+C:\Users\Kamil\Desktop\DelegateTAskTwo\DelegateTAskTwo\obj\Debug\net6.0\DelegateTAskTwo.dll
+C:\Users\Kamil\Desktop\DelegateTAskTwo\DelegateTAskTwo\obj\Debug\net6.0\refint\DelegateTAskTwo.dll
+C:\Users\Kamil\Desktop\DelegateTAskTwo\DelegateTAskTwo\obj\Debug\net6.0\DelegateTAskTwo.pdb
+C:\Users\Kamil\Desktop\DelegateTAskTwo\DelegateTAskTwo\obj\Debug\net6.0\DelegateTAskTwo.genruntimeconfig.cache
+C:\Users\Kamil\Desktop\DelegateTAskTwo\DelegateTAskTwo\obj\Debug\net6.0\ref\DelegateTAskTwo.dll

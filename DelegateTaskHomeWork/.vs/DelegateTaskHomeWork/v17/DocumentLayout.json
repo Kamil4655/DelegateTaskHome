@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kamil\\Desktop\\DelegateTaskHomeWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17A68BEC-7E81-48EA-B593-61BDEE2AF780}|DelegateTaskHomeWork\\DelegateTaskHomeWork.csproj|c:\\users\\kamil\\desktop\\delegatetaskhomework\\delegatetaskhomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A68BEC-7E81-48EA-B593-61BDEE2AF780}|DelegateTaskHomeWork\\DelegateTaskHomeWork.csproj|solutionrelative:delegatetaskhomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A68BEC-7E81-48EA-B593-61BDEE2AF780}|DelegateTaskHomeWork\\DelegateTaskHomeWork.csproj|c:\\users\\kamil\\desktop\\delegatetaskhomework\\delegatetaskhomework\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A68BEC-7E81-48EA-B593-61BDEE2AF780}|DelegateTaskHomeWork\\DelegateTaskHomeWork.csproj|solutionrelative:delegatetaskhomework\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\DelegateTaskHomeWork\\DelegateTaskHomeWork\\Models\\Exam.cs",
+              "RelativeDocumentMoniker": "DelegateTaskHomeWork\\Models\\Exam.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\DelegateTaskHomeWork\\DelegateTaskHomeWork\\Models\\Exam.cs",
+              "RelativeToolTip": "DelegateTaskHomeWork\\Models\\Exam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T19:48:06.703Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\DelegateTaskHomeWork\\DelegateTaskHomeWork\\Program.cs",
+              "RelativeDocumentMoniker": "DelegateTaskHomeWork\\Program.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\DelegateTaskHomeWork\\DelegateTaskHomeWork\\Program.cs",
+              "RelativeToolTip": "DelegateTaskHomeWork\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:20:11.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
